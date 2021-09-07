@@ -4,7 +4,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -21,23 +20,16 @@
 - Git and Github
 
 
-## Features
-List the ready features here:
-- Awesome feature 1
-
-
 ## Project Status
-Project is: _in progress_ 
+Project is: _completed_ 
 
 
 ## Room for Improvement
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Add working link once project is complete
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Update webpage as product goes to market
 
 
 ## Acknowledgements
